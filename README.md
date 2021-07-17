@@ -1,1 +1,1 @@
-# Solution-coding
+This Repositry consists of solutions in C++ to most of the programming question. Mainly usefull for Beginner and Intermediate Who are searching for the solutions for a set of Questions for Reading purpose
